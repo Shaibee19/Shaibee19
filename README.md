@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Shaibee19
 - 👀 I’m interested in ... sustainability and entreprenurship
-- 🌱 I’m currently learning ... CSS, JavaScript, and HTML
-- 💞️ I’m looking to collaborate on ... fun projects
-- 📫 How to reach me ... Shai Gray-Woodland on linkedin
+- 🌱 I’m currently learning ... CSS, JavaScript, HTML, and React.
+- 💞️ I’m looking to collaborate on ... fun & impactful projects
+- 📫 How to reach me ... Shai Gray-Woodland on LinkedIn
 - 😄 Pronouns: ... she/her
 - ⚡ Fun fact: ... prounounced "Shy" like chai tea or thai food
 
